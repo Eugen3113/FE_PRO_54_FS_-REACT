@@ -1,0 +1,23 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 540px;
+  height: fit-content;
+  border: 2px solid rgb(229, 10, 10);
+  padding: 40px;
+  margin: 30px;
+  border-radius: 6px;
+}
+
+
+.card_title_person {
+  font-size: 35px;
+  color: rgb(0, 128, 6);
+  font-weight: bold;
+}
+
+.avatar_pic {
+  width: 200px;
+  height: 200px;
+}

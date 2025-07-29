@@ -28,7 +28,7 @@ const animal = {
   color: "Orange Striped",
   isPlanteater: false,
   avatarURL:
-    "https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_small/6aofsvaglm_Medium_WW226365.jpg",
+           "https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_small/6aofsvaglm_Medium_WW226365.jpg",
 };
 
 const hello = "Hello, it's my first React component";
