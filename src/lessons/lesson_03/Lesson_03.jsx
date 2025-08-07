@@ -43,7 +43,7 @@ function Lesson_03() {
   };
 
   return (
-    <div className="homework03_page_wrapper">
+    <div className="lesson03_page_wrapper">
       <SimpsonsCard
         // Если ключей в обьекте props более 10, то лучше передавайть не отдельно а целым обьектом
         avatarURL={homerSimpson.avatarURL}
@@ -86,3 +86,4 @@ function Lesson_03() {
 }
 
 export default Lesson_03;
+
