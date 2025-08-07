@@ -9,7 +9,7 @@ function Feedback() {
   const [likes, setLikes] = useState(0);
   const [dislikes, setDislikes] = useState(0);
 
-
+        // handle- ручка
   const handleLike = () => setLikes(likes + 1);
   const handleDislike = () => setDislikes(dislikes + 1);
   const handleReset = () => {
