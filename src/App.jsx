@@ -11,7 +11,7 @@ import Homework_04 from "./homeworks/Homework_04/Homework_04";
 
 // Consultation
 import User from "./consultations/Consultation_02/User";
-import User_03 from "./consultations/Consultation_03/User_03";
+// import User_03 from "./consultations/Consultation_03/User_03";
 
 
 import "./App.css";
@@ -27,12 +27,12 @@ function App() {
       {/* <Lesson_02 /> */}
       {/* <Lesson_03 /> */}
       {/* <Lesson_04 /> */}
-      {/* <Lesson_05 /> */}
+      <Lesson_05 />
 
       {/* Homeworks */}
       {/* <Homework_02 /> */}
       {/* <Homework_03/> */}
-      <Homework_04/>
+      {/* <Homework_04/> */}
       
 
 
